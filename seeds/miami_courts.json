@@ -1,0 +1,27 @@
+[
+  {
+    "courtname": "South Beach Courts",
+    "city_id": "Miami",
+    "url": "south-beach-courts"
+  },
+  {
+    "courtname": "Retirement Tennis Club",
+    "city_id": "Miami",
+    "url": "retirement-tennis-club"
+  },
+  {
+    "courtname": "Loud EDM Music Courts",
+    "city_id": "Miami",
+    "url": "loud-edm-music-courts"
+  },
+  {
+    "courtname": "Cuban Sandwich Tennis Courts",
+    "city_id": "Miami",
+    "url": "cuban-sandwich-tennis-courts"
+  },
+  {
+    "courtname": "Crazy Humidity Tennis Center",
+    "city_id": "Miami",
+    "url": "craz-humidity-tennis-center"
+  }
+]

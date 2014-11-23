@@ -1,0 +1,20 @@
+{
+  "name": "tennis_court_api",
+  "version": "1.0.0",
+  "description": "basic restful api for cities and public tennis courts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Corey Speisman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2",
+    "mongodb-wrapper": "*"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express-server": "^0.4.19"
+  }
+}

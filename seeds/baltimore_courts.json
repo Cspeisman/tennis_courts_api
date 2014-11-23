@@ -1,0 +1,27 @@
+[
+  {
+    "courtname": "Orioles Courts",
+    "city_id": "Baltimore",
+    "url": "orioles-courts"
+  },
+  {
+    "courtname": "Crab Cake Tennis Club",
+    "city_id": "Baltimore",
+    "url": "crab-cake-tennis-club"
+  },
+  {
+    "courtname": "Pit Beef Courts",
+    "city_id": "Baltimore",
+    "url": "pit-beef-courts"
+  },
+  {
+    "courtname": "Patterson Park Tennis Courts",
+    "city_id": "Baltimore",
+    "url": "patterson-park-tennis-courts"
+  },
+  {
+    "courtname": "Bolton Tennis Center",
+    "city_id": "Baltimore",
+    "url": "bolton-tennis-center"
+  }
+]

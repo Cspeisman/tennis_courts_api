@@ -1,0 +1,27 @@
+[
+  {
+    "courtname": "Manhattan Courts",
+    "city_id": "New York",
+    "url": "manhattan-courts"
+  },
+  {
+    "courtname": "Brooklyn Tennis Club",
+    "city_id": "New York",
+    "url": "brooklyn-tennis-club"
+  },
+  {
+    "courtname": "Statue of Liberty Courts",
+    "city_id": "New York",
+    "url": "statue-of-liberty-courts"
+  },
+  {
+    "courtname": "Hipster Tennis Courts",
+    "city_id": "New York",
+    "url": "hipster-tennis-courts"
+  },
+  {
+    "courtname": "Train Rats Tennis Center",
+    "city_id": "New York",
+    "url": "train-rats-tennis-center"
+  }
+]

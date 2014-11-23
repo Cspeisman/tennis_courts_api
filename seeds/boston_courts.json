@@ -1,0 +1,27 @@
+[
+  {
+    "courtname": "Redsox Courts",
+    "city_id": "Boston",
+    "url": "redsox-courts"
+  },
+  {
+    "courtname": "We Hate the Yankees Tennis Club",
+    "city_id": "Boston",
+    "url": "we-hate-the-yankees-tennis-club"
+  },
+  {
+    "courtname": "Irish Courts",
+    "city_id": "Boston",
+    "url": "irish-courts"
+  },
+  {
+    "courtname": "Awesome Accents Tennis Courts",
+    "city_id": "Boston",
+    "url": "awesome-accents-tennis-courts"
+  },
+  {
+    "courtname": "Bruins Tennis Center",
+    "city_id": "Boston",
+    "url": "burins-tennis-center"
+  }
+]

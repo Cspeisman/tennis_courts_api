@@ -1,0 +1,22 @@
+[
+  {
+    "courtname": "Congress Courts",
+    "city_id": "Washington"
+  },
+  {
+    "courtname": "Memorial Tennis Club",
+    "city_id": "Washington"
+  },
+  {
+    "courtname": "Whitehouse Courts",
+    "city_id": "Washington"
+  },
+  {
+    "courtname": "Pentagon Country Club",
+    "city_id": "Washington"
+  },
+  {
+    "courtname": "William FitzGerald Tennis Center",
+    "city_id": "Washington"
+  }
+]
