@@ -13,17 +13,17 @@ fs.readdir('./seeds',function(err, data){
       if ( file.indexOf('city') != -1 ){
         
         db.cities.insert(JSON.parse(data), function(){
-          console.log(file + " has been seeded to cities")
+          console.log(file + " has been seeded into the cities collection")
         });
 
       } else if( file.indexOf('courts') != -1 ){
 
         db.courts.insert(JSON.parse(data), function(){
-          console.log(file + " has been seeded courts")
+          console.log(file + " has been seeded into the courts collection")
         });
 
       }
-      
+
     })
   })
   console.log('db has been seeded..')
