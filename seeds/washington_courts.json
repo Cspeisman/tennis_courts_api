@@ -1,22 +1,27 @@
 [
   {
     "courtname": "Congress Courts",
-    "city_id": "Washington"
+    "city_id": "Washington",
+    "url": "congress-courts"
   },
   {
     "courtname": "Memorial Tennis Club",
-    "city_id": "Washington"
+    "city_id": "Washington",
+    "url": "memorial-tennis-club"
   },
   {
     "courtname": "Whitehouse Courts",
-    "city_id": "Washington"
+    "city_id": "Washington",
+    "url": "whitehouse-courts"
   },
   {
     "courtname": "Pentagon Country Club",
-    "city_id": "Washington"
+    "city_id": "Washington",
+    "url": "pentagon-country-club"
   },
   {
     "courtname": "William FitzGerald Tennis Center",
-    "city_id": "Washington"
+    "city_id": "Washington",
+    "url": "william-fitzgerald-tennis-center"
   }
 ]
