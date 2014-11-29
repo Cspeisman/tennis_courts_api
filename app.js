@@ -20,7 +20,7 @@ app.get('/cities', function(req, res){
 
 app.get('/cities/:id', function(req, res){
   db.cities.find({'_id': req.params.id.capitalize() }).toArray(function(err, cities){
-    res.send(cities);
+    res.send(cities[0]);
   });
 });
 
@@ -39,7 +39,7 @@ app.get('/courts', function(req, res){
 
 app.get('/courts/:url', function(req, res){
   db.courts.find({'url': req.params.url }).toArray(function(err, courts){
-    res.send(courts);
+    res.send(courts[0]);
   });
 });
 
